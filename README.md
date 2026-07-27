@@ -5,7 +5,7 @@
  \___| I_I_.__/    KERNEL:      B.Tech Computer Science & Engineering
                    LANGUAGES:   Python, JavaScript, C++
                    FRAMEWORKS:  Streamlit, React, NumPy, Pandas
-                   PROJECTS:    Real-Time Bus Tracker, automated smart-city parking platform using Python, comprehensive digital dining ecosystem utilizing robust MERN                                     stack backend data architectures
+                   PROJECTS:    Real-Time Bus Tracker, automated smart-city parking platform using Python, comprehensive digital dining ecosystem utilizing robust MERN stack backend data architectures
                    HOBBIES:     AI Engineering, Open Source
                    CONTACT:     devikadiya1010@gmail.com.com
                    STATUS:      Building future-proof AI systems 🚀
